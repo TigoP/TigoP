@@ -1,4 +1,4 @@
-![banner](https://github.com/TigoP/TigoP/blob/main/banner_tigo_copia.jpg)
+![banner](https://github.com/TigoP/TigoP/blob/main/tecido%20estampado%20universo.jpg)
 ## Hi there! 👋
 
 - 🏃🏾‍♂️ My name is Tiago Pereira and my nickname is Tigo. My close friends usually call me this way and i really like it. 
