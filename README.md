@@ -6,7 +6,7 @@
 - 🤓 This is my "study" github. On it I'll put anything I'm working on while I'm learning and improving my skills.
 
 - 🌱 Currently I'm focused on HTML, CSS and Javascript.
-____________________________________//______________________________________________________
+
 
 ## Olá pessoal! 👋
 
