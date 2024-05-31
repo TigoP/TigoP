@@ -18,7 +18,7 @@
 
 - 🌱 Atualmente estou focado em HTML, CSS e Javascript.
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,vscode&perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,python,vscode&perline=8)](https://skillicons.dev)
 
 
 <!--
